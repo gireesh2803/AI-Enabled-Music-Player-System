@@ -1,0 +1,5 @@
+dearpygui
+mpv
+youtube-search-python
+bardapi
+yt-dlp
